@@ -1,0 +1,6 @@
+groq
+python-dotenv
+pyannote.audio
+torch 
+torchaudio
+pydub

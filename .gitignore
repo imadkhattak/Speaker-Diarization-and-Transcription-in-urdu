@@ -1,1 +1,7 @@
-venv
+# Ignore virtual environment
+venv/
+
+# Ignore audio and output folders
+audios/
+audio_chunks/
+.env
